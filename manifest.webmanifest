@@ -1,0 +1,12 @@
+{
+    "name": "Doctor Appointment Manager",
+    "short_name": "Doctor Appointment Manager",
+    "description": "This App does something...",
+    "icons": [
+        {
+            "src": "/webapp/images/BT_Symbol.png",
+            "type": "image/png",
+            "sizes": "160x336"
+          }
+    ]
+}
